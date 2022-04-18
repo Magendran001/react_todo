@@ -1,0 +1,9 @@
+.crossed-line{
+    text-decoration: line-through;
+}
+.Flex_todolist{
+    display: flex;
+    margin: auto;
+  
+    justify-content: center;
+}
